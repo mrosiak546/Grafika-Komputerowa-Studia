@@ -1,6 +1,25 @@
 # Grafika-Komputerowa-Studia
 Projekty na przedmiot Grafika Komputerowa 
 
+# Spis Treści
+1. [Projekty na przedmiot Grafika Komputerowa](#grafika-komputerowa-studia)
+2. [Opis](#opis)
+3. [Rysowanie pikseli](#rysowanie-pikseli)
+4. [Rysowanie Linii](#rysowanie-linii)
+5. [Rysowanie Koła](#rysowanie-koła)
+6. [Rysowanie Elips](#rysowanie-elips)
+7. [Krzywa Beziera](#krzywa-beziera)
+8. [B-spliny](#b-spliny)
+9. [Interakcja z punktami](#interakcja-z-punktami)
+10. [FloodFill](#floodfill)
+11. [ScanLine](#scanline)
+12. [RGB I HSV](#rgb-i-hsv)
+13. [Ruchy myszką](#ruchy-myszką)
+   - [Zdarznie Naciśnięcia Myszy](#zdarznie-naciśnięcia-myszy)
+   - [Zdarzenie Poruszania Myszką](#zdarzenie-poruszania-myszką)
+   - [Zdarzenie Zwolnienia Myszy](#zdarzenie-zwolnienia-myszy)
+
+
 # Opis
 Projekt ten napisany jest w języku C++ z użyciem frameworka QT i zawiera poszczególne 
 typy projektów które były do realizacji na przedmiocie Grafika Komputerowa.
