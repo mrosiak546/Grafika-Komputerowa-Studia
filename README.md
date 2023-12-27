@@ -1,7 +1,7 @@
 # Grafika-Komputerowa-Studia
 Projekty na przedmiot Grafika Komputerowa 
 
-#Paint
+##Paint
 Projekt ten napisany jest w języku C++ z użyciem frameworka QT i zawiera poszczególne 
 typy projektów które były do realizacji na przedmiocie Grafika Komputerowa.
 
